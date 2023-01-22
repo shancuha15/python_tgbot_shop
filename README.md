@@ -21,7 +21,7 @@
 
     Clicking clicking the "Support" button.
 
-![reminder](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/reminder.png)
+![support](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/support.png)
 
     Clicking the "More" button.
 
