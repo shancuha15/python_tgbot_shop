@@ -23,7 +23,7 @@
 
 ![support](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/support.png)
 
-    Clicking the "More" button.
+    Clicking the "Additional Information" button.
 
 ![additional information](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/additional%20Information.png)
 
