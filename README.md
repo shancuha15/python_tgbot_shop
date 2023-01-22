@@ -14,85 +14,86 @@
 * _save gadget memory for users_
 <hr>
 
-## Как работает данный бот?
-При запуске бота вас встречает приветствие и главное меню.
+## How does this bot work?
+    When you start the bot, you are greeted with a welcome message and the main menu.
 
 ![main menu](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/main%20menu.png)
 
-При нажатии кнопки "поддержка".
+    Clicking clicking the "Support" button.
 
 ![reminder](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/reminder.png)
 
-При нажатии кнопки "дополнительная информация".
+    Clicking the "More" button.
 
 ![additional information](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/additional%20Information.png)
 
-При нажитии кнопки "уже слушаю" вы попадаете в чат для связи с менеджером. Кнопка "уже помогаю" свяжет с техничесской поддержкой.
+    When you click on the "already listening" button, you will be taken to a chat to communicate with the manager. 
+    The "already helping" button will contact technical support.
 
 ![additional information chat](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/additional%20information%20chat.png)
 
-Кнопка "назад" возвращает вас в главное меню.
+    The back button takes you back to the main menu.
 
 ![back button](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/back%20button.png)
 
-Кнопка "информация о нас" даст вам необходимую информацию о магазине. 
+    The "info about us" button will give you the necessary information about the store.
 
 ![back button](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/back%20button.png)
 
-При нажатии кнопки "товары" вы можете увидеть перечень товаров, наборы, скидки и сделать персональный заказ.
+    By clicking on the "Products" button, you can see a list of products, sets, discounts and make a personal order.
 
 ![goods](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/goods.png)
 
-Кнопки "наборы", "скидки", "персональный заказ".
+    Buttons "sets", "discounts", "personal order".
 
 ![three buttons](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/three%20buttons.png)
 
-Кнопка "перечень товаров" покажет вам какие товары есть в магазине.
+    The "list of products" button will show you what products are in the store.
 
 ![list of goods](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/list%20of%20goods.png)
 
-При нажатии на клавишу "стикеры" вы можете увидеть каждый стикер по отдельности с подробной информацией о нем 
-(на все фотографиях подробного описания нет, этим будет заниматься владелец магазина,а не разработчик). 
+    By clicking on the "stickers" button, you can see each sticker separately with detailed information about it
+    (all photos do not have a detailed description, this will be done by the store owner, not the developer).
 
 ![stikers](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/stickers.png)
 
-Клавиши "блокноты" и "картины" работают точно так же. 
+    The "notebook" and "picture" keys work in exactly the same way.
 
-При нажатии клавиши "меню". 
+    By pressing the "menu" key.
 
 ![menu](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/menu.png)
 
-## Что еще умеет данный бот?
+## What else can this bot do?
 
-- Собирать информацию о пользователях. При нажатии кнопки "старт" в базу данных "botusers" заносится информация,
-необходимая для дальнейшего ее использования в рассылках обновления товаров, новостях магазина и дальнейшего
-улучшения качества бота и магазина. За это отвечает функция "старт", которая находится в файле main.py.
+- Collect user information. When you press the "start" button, the information is entered into the database of "botusers",
+necessary for its further use in product update mailing lists, store news and other improving the quality of the bot and the store. 
+The “start” function, which is located in the main.py file, is responsible for this.
 
 ![botusers](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/botusers.png)
 
-- Рассылать важную информацию пользователям. Сообщение приходит в самом боте. Администратор вводит команду "/reminder",
-после чего бот считывает сообщение, которое находится в файле reminder.txt и отправляет его всем пользователям. Другие
-пользователи введя данную команду получат уведомление об ошибке. За это отвечает функция "reminder", которая находится в 
-файле main.py. Она удобна тем, что не нужно останавливать программу для изменение текста, а достаточно изменить текст 
-в файле reminder.txt и прописать команду "/reminder".
+- Send important information to users. The message comes in the bot itself. The administrator enters the "/reminder" command,
+after which the bot reads the message that is in the reminder.txt file and sends it to all users. Another
+Users entering this command will receive an error notification. The "reminder" function, which is located in
+main.py file. Convenient because you do not need to stop the program to change the text, but simply change the text
+in the reminder.txt file and write the "/reminder" command.
 
 ![reminder](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/reminder.png)
 
-# Заключение.
+# Conclusion.
 
-    Вам был представлен не сложный по своей конструкции бот, который может сэкономить время владельцам магазина. 
-    Внутренний функционал поможет развивать магазин и быть на связи с пользоватями 24/7. 
+    You were presented with a bot that is not complicated in its design, which can save time for store owners.
+    Internal functionality will help develop the store and keep in touch with users 24/7.
 
-    Примечание: Данный бот будет улучшен, после предоставления необходимой информации: 
-    - главное фото бота
-    - название бота
-    - фото и текст в приветствии
-    - описание к каждой кнопки
-    - товары, описание товара (размер, материал, стоитость и так далее)
-    - информация о "наборах", "скидках", "персональных заказах"
+    Note: This bot will be improved after providing the necessary information: 
+    - home page design (photo, text, voice message, etc.)
+    - bot name
+    - home page design (photo, text)
+    - description for each button
+    - goods, description of the goods (size, material, cost, and so on)
+    - information about "sets", "discounts", "personal orders"
  
     В дальшейшем, с ростом количества пользователей, планируется добавить корзину и возможность добавлять в неё товар и 
     оформлять заказ без помощи менеджера. 
     
 
-# Спасибо за ваше внимание!
+# Thank you for your attention!
