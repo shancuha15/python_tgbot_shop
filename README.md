@@ -38,7 +38,7 @@
 
     The "info about us" button will give you the necessary information about the store.
 
-![back button](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/back%20button.png)
+![information about us](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/information%20about%20us.png)
 
     By clicking on the "Products" button, you can see a list of products, sets, discounts and make a personal order.
 
@@ -54,14 +54,16 @@
 
     By clicking on the "stickers" button, you can see each sticker separately with detailed information about it
     (all photos do not have a detailed description, this will be done by the store owner, not the developer).
+    The "notebook" and "picture" keys work in exactly the same way.
 
 ![stikers](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/stickers.png)
-
-    The "notebook" and "picture" keys work in exactly the same way.
 
     By pressing the "menu" key.
 
 ![menu](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/menu.png)
+
+    The "/start" command moves to the main menu.
+    The "/contacts" command helps to quickly contact the manager.
 
 ## What else can this bot do?
 
@@ -92,8 +94,8 @@ in the reminder.txt file and write the "/reminder" command.
     - goods, description of the goods (size, material, cost, and so on)
     - information about "sets", "discounts", "personal orders"
  
-    В дальшейшем, с ростом количества пользователей, планируется добавить корзину и возможность добавлять в неё товар и 
-    оформлять заказ без помощи менеджера. 
+    In the future, with an increase in the number of users, it is planned to add a shopping cart 
+    and the ability to add products to it and place an order without the help of a manager.
     
 
 # Thank you for your attention!
