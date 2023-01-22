@@ -21,46 +21,46 @@
 
 При нажатии кнопки "поддержка".
 
-фото
+![reminder](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/reminder.png)
 
 При нажатии кнопки "дополнительная информация".
 
-фото
+![additional information](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/additional%20Information.png)
 
-При нажитии кнопки "уже слушаю" вы попадаете в чат для связи с менеджером.
+При нажитии кнопки "уже слушаю" вы попадаете в чат для связи с менеджером. Кнопка "уже помогаю" свяжет с техничесской поддержкой.
 
-фото
+![additional information chat](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/additional%20information%20chat.png)
 
 Кнопка "назад" возвращает вас в главное меню.
 
-фото
+![back button](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/back%20button.png)
 
 Кнопка "информация о нас" даст вам необходимую информацию о магазине. 
 
-фото
+![back button](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/back%20button.png)
 
 При нажатии кнопки "товары" вы можете увидеть перечень товаров, наборы, скидки и сделать персональный заказ.
 
-фото
+![goods](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/goods.png)
 
 Кнопки "наборы", "скидки", "персональный заказ".
 
-фото
+![three buttons](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/three%20buttons.png)
 
 Кнопка "перечень товаров" покажет вам какие товары есть в магазине.
 
-фото
+![list of goods](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/list%20of%20goods.png)
 
 При нажатии на клавишу "стикеры" вы можете увидеть каждый стикер по отдельности с подробной информацией о нем 
 (на все фотографиях подробного описания нет, этим будет заниматься владелец магазина,а не разработчик). 
 
-фото
+![stikers](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/stickers.png)
 
 Клавиши "блокноты" и "картины" работают точно так же. 
 
 При нажатии клавиши "меню". 
 
-фото
+![menu](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/menu.png)
 
 ## Что еще умеет данный бот?
 
@@ -68,15 +68,15 @@
 необходимая для дальнейшего ее использования в рассылках обновления товаров, новостях магазина и дальнейшего
 улучшения качества бота и магазина. За это отвечает функция "старт", которая находится в файле main.py.
 
-фото
+![botusers](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/botusers.png)
 
 - Рассылать важную информацию пользователям. Сообщение приходит в самом боте. Администратор вводит команду "/reminder",
-после чего бот считывает сообщение, которое находится в файле reminder.txt и отправляет его пользователям. Другие
+после чего бот считывает сообщение, которое находится в файле reminder.txt и отправляет его всем пользователям. Другие
 пользователи введя данную команду получат уведомление об ошибке. За это отвечает функция "reminder", которая находится в 
 файле main.py. Она удобна тем, что не нужно останавливать программу для изменение текста, а достаточно изменить текст 
 в файле reminder.txt и прописать команду "/reminder".
 
-фото
+![reminder](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/reminder.png)
 
 # Заключение.
 
@@ -87,7 +87,7 @@
     - главное фото бота
     - название бота
     - фото и текст в приветствии
-    - описание каждой кнопки
+    - описание к каждой кнопки
     - товары, описание товара (размер, материал, стоитость и так далее)
     - информация о "наборах", "скидках", "персональных заказах"
  
@@ -95,3 +95,4 @@
     оформлять заказ без помощи менеджера. 
     
 
+# Спасибо за ваше внимание!
