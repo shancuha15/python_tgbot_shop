@@ -14,3 +14,5 @@
 * _save gadget memory for users_
 <hr>
 
+## Как работает данный бот?
+![main menu](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/main%20menu.png)
