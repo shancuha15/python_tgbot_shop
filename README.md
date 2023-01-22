@@ -65,6 +65,8 @@
     The "/start" command moves to the main menu.
     The "/contacts" command helps to quickly contact the manager.
 
+![contacts](https://github.com/shancuha15/python_tgbot_shop/blob/main/readme%20photo/contacts.png)
+
 ## What else can this bot do?
 
 - Collect user information. When you press the "start" button, the information is entered into the database of "botusers",
