@@ -19,7 +19,7 @@ cursor = conn.cursor()
 # Sending a message from the reminder.txt file to users from the database entered in the user_list.txt file.
 # Only an administrator with a unique username can send messages to users.
 @bot.message_handler(commands=['reminder'])
-def test(message):
+def reminder(message):
     token = const.API_TOKEN
     chatID = []
     calc = 0
