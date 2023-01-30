@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "uuid": "^9.0.0"
-  }
+  },
+  "name": "python_tgbot_shop",
+  "description": "* _free a person from work that is difficult for him to do - monotonous, constantly repetitive and boring_ \r * _save resources and personal time of employees_\r * _consult on product availability_\r * _instant response to user messages_\r * _receive the necessary information 24/7_\r * _promptly notify the user about product updates and the main news of the store_\r * _increase sales_ \r * _track statistics_\r * _save gadget memory for users_\r <hr>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shancuha15/python_tgbot_shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shancuha15/python_tgbot_shop/issues"
+  },
+  "homepage": "https://github.com/shancuha15/python_tgbot_shop#readme"
 }
