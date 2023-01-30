@@ -1,4 +1,0 @@
-sqlite3
-telebot
-requests
-Python 3.10.4
